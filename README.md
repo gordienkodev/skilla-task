@@ -11,7 +11,7 @@ Deploy: [https://skilla-task-phi.vercel.app/](https://skilla-task-phi.vercel.app
 
 ## Author
 
-- [Pavel Gordienko](https://github.com/guz86)
+- [Pavel Gordienko](https://github.com/gordienkodev)
 
 ## Setup and Running
 
